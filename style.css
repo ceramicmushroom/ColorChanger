@@ -1,0 +1,28 @@
+button:hover {
+    background-color:bisque;
+}
+
+button{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    transition: background-color 0.3s ease;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+p{
+    position: absolute;
+    top: 10%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+}
